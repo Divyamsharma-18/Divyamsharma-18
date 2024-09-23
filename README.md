@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divyam Sharma
 =====================================================================================================================================
 
-Web Developer | Coder | Warrior 🔥
+Web Developer | Coder | GameDev | Warrior 🔥
 ----------------------------------
 
 I'm a frontend wizard on a mission to sprinkle a bit of magic on the web. My love for tech started when I realised I could turn creative ideas into interactive digital experiences. Now, I get to do that every day! ✨💫
