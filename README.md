@@ -8,7 +8,7 @@ I'm a frontend wizard on a mission to sprinkle a bit of magic on the web. My lov
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [divyamsharmaworks@gmail.com](mailto:divyamsharmaworks@gmail.com)
-* 🧠  I'm learning React.js.
+* 🧠  I'm learning stuffs (good ones mostly).
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm secretly a vampire 🧛🏻‍♀️ and I know you won't tell anyone, right, RIGHT?
 
