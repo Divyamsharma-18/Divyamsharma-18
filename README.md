@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Coder | GameDev | Warrior 🔥
 ----------------------------------
 
-I'm a make magical stuff and am on a mission to sprinkle a bit of magic on the web. My love for tech started when I realised I could turn creative ideas into interactive digital experiences. Now, I get to do that every day! ✨💫
+I make magical stuff and am on a mission to sprinkle a bit of magic on the web. My love for tech started when I realised I could turn creative ideas into interactive digital experiences. Now, I get to do that every day! ✨💫
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [divyamsharmaworks@gmail.com](mailto:divyamsharmaworks@gmail.com)
