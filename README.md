@@ -35,3 +35,10 @@ src="https://img.shields.io/twitter/follow/Heydivyamsharma?logo=twitter&style=fo
 <!-- <a href="http://www.github.com/Divyamsharma-18"><img src="https://github-readme-stats.vercel.app/api?username=Divyamsharma-18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Divyamsharma-18's GitHub stats" /></a> -->
 
 <!-- <a href="https://github.com/Divyamsharma-18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamsharma-18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-zeta-ten-65.vercel.app/api?username=divyamsharma-18&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&text_color=ffffff&title_color=4c8eda" height="160" />
+  <img src="https://github-readme-stats-zeta-ten-65.vercel.app/api/top-langs/?username=divyamsharma-18&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=4c8eda&langs_count=6" height="160" />
+</p>
