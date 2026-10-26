@@ -13,6 +13,16 @@ I make magical stuff and am on a mission to sprinkle a bit of magic on the web. 
 <a href="https://www.x.com/Heydivyamsharma" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Heydivyamsharma?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+<div align="center">
+  <a href="https://commit-history.com/Divyamsharma-18">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Divyamsharma-18?theme=dark" />
+      <img alt="Divyamsharma-18's commit history" src="https://commit-history.com/embed/Divyamsharma-18" />
+    </picture>
+  </a>
+</div>
+
 ### Skills
 
 <p align="left">
